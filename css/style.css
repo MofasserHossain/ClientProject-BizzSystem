@@ -732,6 +732,12 @@ section {
     color: #fff;
 }
 
+.contact-form .modal-dialog .modal-header .close-btn {
+    background-color: #fff;
+    border: none;
+    font-size: 20px;
+}
+
 .contact-form-inner .register span {
     font-weight: 700;
 }
